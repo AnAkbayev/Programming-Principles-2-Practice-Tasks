@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Alex Johnson",
+        "email": "alex@gmail.com",
+        "birthday": "2003-05-15",
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "+77011234567",
+                "type": "mobile"
+            },
+            {
+                "phone": "+77271234567",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "name": "John Smith",
+        "email": "john@company.com",
+        "birthday": "2000-10-20",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "+77029876543",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "name": "Sarah Wilson",
+        "email": "sarah@gmail.com",
+        "birthday": "2002-03-12",
+        "group": "Family",
+        "phones": [
+            {
+                "phone": "+77015554433",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Michael Brown",
+        "email": "michael@yahoo.com",
+        "birthday": "2001-07-25",
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77017778899",
+                "type": "mobile"
+            }
+        ]
+    }
+]
